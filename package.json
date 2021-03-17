@@ -1,0 +1,28 @@
+{
+  "name": "league-sim",
+  "version": "1.0.0",
+  "description": "A tiny web project to track matches in a league and preview standings for different outcomes of future matches",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkissing/league-sim.git"
+  },
+  "keywords": [
+    "league",
+    "tournament"
+  ],
+  "author": "Timo Van-Kissing <timo.kissing@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tkissing/league-sim/issues"
+  },
+  "homepage": "https://github.com/tkissing/league-sim#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "esm": "^3.2.25",
+    "mocha": "^8.3.2",
+    "prettier": "^2.2.1"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "tags": {
+    "yrk": "House of York",
+    "lan": "House of Lancaster",
+    "stu": "House of Stuart",
+    "tdr": "House of Tudor",
+  },
+  "gamedays": [
+    {
+      "date": "2019-03-24",
+      "games": [
+        {
+          "host": "lan",
+          "guest": "yrk",
+          "score": {
+            "host": 0,
+            "guest": 0
+          }
+        },
+        {
+          "host": "tdr",
+          "guest": "stu",
+          "score": {
+            "host": 0,
+            "guest": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2020-03-24",
+      "games": [
+        {
+          "host": "stu",
+          "guest": "yrk",
+          "score": {
+            "host": 0,
+            "guest": 0
+          }
+        },
+        {
+          "host": "tdr",
+          "guest": "lan",
+          "score": {
+            "host": 0,
+            "guest": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2021-03-24",
+      "games": [
+        {
+          "host": "tdr",
+          "guest": "yrk",
+          "score": {
+            "host": 0,
+            "guest": 0
+          }
+        },
+        {
+          "host": "stu",
+          "guest": "lan",
+          "score": {
+            "host": 0,
+            "guest": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2022-03-24",
+      "games": [
+        {
+          "host": "yrk",
+          "guest": "lan",
+          "score": {
+            "host": 0,
+            "guest": 0
+          }
+        },
+        {
+          "host": "stu",
+          "guest": "tdr",
+          "score": {
+            "host": 0,
+            "guest": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2023-03-24",
+      "games": [
+        {
+          "host": "yrk",
+          "guest": "stu",
+          "score": {
+            "host": 0,
+            "guest": 0
+          }
+        },
+        {
+          "host": "lan",
+          "guest": "tdr",
+          "score": {
+            "host": 0,
+            "guest": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2024-03-24",
+      "games": [
+        {
+          "host": "lan",
+          "guest": "stu",
+          "score": {
+            "host": 0,
+            "guest": 0
+          }
+        },
+        {
+          "host": "yrk",
+          "guest": "tdr",
+          "score": {
+            "host": 0,
+            "guest": 0
+          }
+        }
+      ]
+    }
+  ]
+}

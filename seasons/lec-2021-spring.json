@@ -1,0 +1,826 @@
+{
+  "tags": {
+    "fnc": "Fnatic",
+    "msf": "Misfits",
+    "s04": "Schalke 04",
+    "g2": "G2 Esports",
+    "mad": "MAD Liones",
+    "sk": "SK Gaming",
+    "rog": "Rogue",
+    "xl": "Excel",
+    "ast": "Astralis",
+    "vit": "Team Vitality"
+  },
+  "gamedays": [
+    {
+      "date": "2021-01-22",
+      "games": [
+        {
+          "host": "msf",
+          "guest": "fnc",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "rog",
+          "guest": "xl",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "g2",
+          "guest": "mad",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "vit",
+          "guest": "s04",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "ast",
+          "guest": "sk",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        }
+      ]
+    },
+    {
+      "date": "2021-01-23",
+      "games": [
+        {
+          "host": "fnc",
+          "guest": "rog",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "mad",
+          "guest": "ast",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "s04",
+          "guest": "xl",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "g2",
+          "guest": "sk",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "vit",
+          "guest": "msf",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2021-01-24",
+      "games": [
+        {
+          "host": "xl",
+          "guest": "g2",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "msf",
+          "guest": "mad",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "ast",
+          "guest": "vit",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "fnc",
+          "guest": "s04",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "rog",
+          "guest": "sk",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2021-01-29",
+      "games": [
+        {
+          "host": "vit",
+          "guest": "fnc",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "g2",
+          "guest": "ast",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "mad",
+          "guest": "xl",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "msf",
+          "guest": "rog",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "s04",
+          "guest": "sk",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2021-01-30",
+      "games": [
+        {
+          "host": "fnc",
+          "guest": "mad",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "vit",
+          "guest": "rog",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "xl",
+          "guest": "ast",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "s04",
+          "guest": "g2",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "msf",
+          "guest": "sk",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        }
+      ]
+    },
+    {
+      "date": "2021-02-05",
+      "games": [
+        {
+          "host": "f",
+          "guest": "ast",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "vit",
+          "guest": "g2",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "msf",
+          "guest": "xl",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "s04",
+          "guest": "rog",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "mad",
+          "guest": "sk",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        }
+      ]
+    },
+    {
+      "date": "2021-02-06",
+      "games": [
+        {
+          "host": "g2",
+          "guest": "f",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "vit",
+          "guest": "mad",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "s04",
+          "guest": "msf",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "rog",
+          "guest": "ast",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "xl",
+          "guest": "sk",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2021-02-12",
+      "games": [
+        {
+          "host": "f",
+          "guest": "sk",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "msf",
+          "guest": "g2",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "s04",
+          "guest": "ast",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "mad",
+          "guest": "rog",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "vit",
+          "guest": "xl",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        }
+      ]
+    },
+    {
+      "date": "2021-02-13",
+      "games": [
+        {
+          "host": "g2",
+          "guest": "rog",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "s04",
+          "guest": "mad",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "vit",
+          "guest": "sk",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "f",
+          "guest": "xl",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "msf",
+          "guest": "ast",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2021-02-19",
+      "games": [
+        {
+          "host": "vit",
+          "guest": "f",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "g2",
+          "guest": "ast",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "s04",
+          "guest": "sk",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "msf",
+          "guest": "rog",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "mad",
+          "guest": "xl",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2021-02-20",
+      "games": [
+        {
+          "host": "s04",
+          "guest": "g2",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "vit",
+          "guest": "rog",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "xl",
+          "guest": "ast",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "f",
+          "guest": "mad",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "msf",
+          "guest": "sk",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        }
+      ]
+    },
+    {
+      "date": "2021-02-26",
+      "games": [
+        {
+          "host": "f",
+          "guest": "ast",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "vit",
+          "guest": "g2",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "mad",
+          "guest": "sk",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "s04",
+          "guest": "rog",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "msf",
+          "guest": "xl",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2021-02-27",
+      "games": [
+        {
+          "host": "g2",
+          "guest": "f",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "vit",
+          "guest": "mad",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "s04",
+          "guest": "msf",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "rog",
+          "guest": "ast",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "xl",
+          "guest": "sk",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        }
+      ]
+    },
+    {
+      "date": "2021-03-05",
+      "games": [
+        {
+          "host": "f",
+          "guest": "xl",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "g2",
+          "guest": "rog",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "s04",
+          "guest": "mad",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "vit",
+          "guest": "sk",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "msf",
+          "guest": "ast",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2021-03-06",
+      "games": [
+        {
+          "host": "mad",
+          "guest": "rog",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "f",
+          "guest": "sk",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "s04",
+          "guest": "ast",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "msf",
+          "guest": "g2",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "vit",
+          "guest": "xl",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2021-03-12",
+      "games": [
+        {
+          "host": "xl",
+          "guest": "g2",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "f",
+          "guest": "s04",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "rog",
+          "guest": "sk",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "msf",
+          "guest": "mad",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "ast",
+          "guest": "vit",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2021-03-13",
+      "games": [
+        {
+          "host": "g2",
+          "guest": "mad",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "rog",
+          "guest": "xl",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "ast",
+          "guest": "sk",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "msf",
+          "guest": "f",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "vit",
+          "guest": "s04",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        }
+      ]
+    },
+    {
+      "date": "2021-03-14",
+      "games": [
+        {
+          "host": "f",
+          "guest": "rog",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "mad",
+          "guest": "ast",
+          "score": {
+            "host": 0,
+            "guest": 1
+          }
+        },
+        {
+          "host": "vit",
+          "guest": "msf",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "g2",
+          "guest": "sk",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        },
+        {
+          "host": "s04",
+          "guest": "xl",
+          "score": {
+            "host": 1,
+            "guest": 0
+          }
+        }
+      ]
+    }
+  ]
+}
